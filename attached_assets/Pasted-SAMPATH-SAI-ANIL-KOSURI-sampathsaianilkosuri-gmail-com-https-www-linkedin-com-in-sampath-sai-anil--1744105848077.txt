@@ -1,0 +1,84 @@
+SAMPATH SAI ANIL KOSURI
+sampathsaianilkosuri@gmail.com
+https://www.linkedin.com/in/sampath-sai-anil-kosuri-43aba224a
+https://github.com/sampathsaianilkosuri
+PROFILE
+-----------------------------------------------------------------------------------------------------------------------------------
+Smart, confident, and seeking employment as a Software Engineer in your
+organization, where I can utilize my knowledge and experience to help the company
+reach its goals.
+Technical Skills
+ Programming: Python (Automation) | NumPy | pandas | matplotlib | Java
+ Deep Learning: Artificial Neural Networks
+ Frameworks & Libraries: OpenCv | Media-Pipe
+ Database: Structured Query Language(SQL)
+ Robotics: Gazebo Simulation | Mapping
+ Hardware: STM32 Nucleo(F413ZH) Board | Arduino Mega 2560/Uno/Nano |
+BTS7960/L298N Motor Drivers | ESP32 | FS-I6S Transmitter/Receiver | Rotary
+Encoders | Jetson Orin Nano | Raspberry Pi
+ IoT: IoT with AI Integration
+ Mechanical: Motor Torque Calculations |Robotics Design and Assembly
+ PCB DESIGN SOFTWARE: Schematic | Footprints | Simulation
+ Electronics: Soldering Work | Drilling Work | Heat Blower Work | Multimeter
+Tools
+ PyCharm | VS Code | STM32CubeIDE/MX | Colab | Jupyter | Arduino IDE | Easyeda |
+Sololearn
+ AI Assistants: ChatGPT | Claude_AI | DeepSeek | Microsoft copilot | Blackbox |
+Gemini |
+PROJECTS
+---------------------------------------------------------------------------------------------------------------------------------------
+Person Following UGV (DAM4+SAM2)
+ Developed an autonomous UGV that tracks a selected individual using
+DAM4+SAM2.
+ Implemented person tracking for luggage-carrying applications.
+Autonomous Navigation UGV (Gazebo Simulation)
+ Created a mapping system using SLAM Toolbox for navigation.
+ Implemented autonomous navigation with the Nav2 Stack in Gazebo.
+Face Following Drone
+ Designed a system to detect faces and follow individuals based on their position
+in the frame.
+ Integrated real-time face detection with drone control algorithms.
+Person Following UGV
+ Built a UGV capable of following any person while carrying luggage.
+ Developed person detection and tracking algorithms.
+Gesture-Controlled Drone
+ Developed a drone control system based on finger count detection.
+ Implemented hand gesture recognition for intuitive drone operation.
+EXPERIENCE
+--------------------------------------------------------------------------------------------------------------------------------------
+Robotics Electronics Engineer- Kakinada Institute of Engineering and
+Technology
+ Guided students in implementing real-world projects Experience in designing and
+developing embedded systems for robotic applications, including microcontrollerbased systems (e.g. Arduino | STM32)
+ Expertise in PCB design, including schematic capture,Footprint using tools
+like Easyeda,Kicad
+ Expertise in soldering and PCB assembly for electronic components and circuits.
+ Proficient in drilling and cutting components for mechanical assembly and
+enclosures.
+ Skilled in designing and fabricating cabinets for housing robotics systems
+EDUCATION
+ B.Tech in Artificial Intelligence
+KIET College, [Korangi, Ap]
+Graduation Year: [2024]
+Score: 70%
+ Diploma in Mechanical Engineering
+KITS College, [Divili, Ap]
+Year of Completion: [2021]
+Score: 86%
+ Secondary School (10th Grade)
+Bhashyam School, [Samalkot, Ap]
+Year of Completion: [2018]
+Score: 95%
+ACHIEVEMENTS
+ Got a certificate of merit for being among the top 5/10 performers in the
+National Chess Competition.
+HOBBIES
+ Playing Chess
+ Listening to Music
+ Learning new technologies
+PERSONAL DETAILS
+ Date of Birth: 22-11-2001
+ Father's Name: Mr. Trimurthulu
+ Mother's Name: Mrs. Nagalakshmi
+ Languages Known: English | Telugu
+ Phone number : 6300550177
